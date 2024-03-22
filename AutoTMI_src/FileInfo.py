@@ -1,0 +1,3 @@
+class FileInfo:
+    filename = ''
+    

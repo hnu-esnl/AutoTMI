@@ -1,0 +1,5 @@
+The source code repository contains the source code `AutoTMI_src` for automotive software maintainable metrics and a folder of executable metrics calculation tools called `AutoTMl_Tool`.
+
+- In the source code `AutoTMI_src` folder is the interface code of the tool for calculating each maintainability metric written in Python language. Data elements for nine key index metrics at each level of software, module, and component are obtained from Automotive Open Systems Architecture (AUTOSAR)-compliant automotive software source code, and the metrics data are computed.
+
+- Download the tool `AutoTMl_Tool` folder, click to run the `AutoTMl.exe` file, and upload the AUTOSAR-compliant automotive software to be metered (test cases are not provided here due to confidentiality agreements). After successful parsing, you will be able to view the results of the metrics and maintain the metrics report.
